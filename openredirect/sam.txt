@@ -1,0 +1,6 @@
+http://localhost:8000/?url=///google.com/%252f..
+http://localhost:8000/?url=///www.whitelisteddomain.tld%40google.com/%252f..
+http://localhost:8000/?url=////google.com/%252f..
+http://localhost:8000/?url=////www.whitelisteddomain.tld%40google.com/%252f..
+http://localhost:8000/?url=/////google.com/%252f..
+http://localhost:8000/?url=/////www.whitelisteddomain.tld%40google.com/%252f..
