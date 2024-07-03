@@ -1,10 +1,6 @@
 ## Badges
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![PyPI - Version](https://img.shields.io/pypi/v/openredirect)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/openredirect)
-![GitHub all releases](https://img.shields.io/github/downloads/Cappricio-Securities/openredirect/total)
-<a href="https://github.com//openredirect/releases/"><img src="https://img.shields.io/github/release/Cappricio-Securities/openredirect"></a>![Profile_view](https://komarev.com/ghpvc/?username=Cappricio-Securities&label=Profile%20views&color=0e75b6&style=flat)
-
 
 <p align="center">
 
@@ -17,7 +13,7 @@
 
    - Install via pip
      - ```bash
-          pip install openredirect 
+          pip install openredirectcheck 
         ```
    - Run bellow command to check
      - `openredirectcheck -h`
